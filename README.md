@@ -2,7 +2,7 @@
 ---
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer / Seaport Drainer
 ---
-![preview](https://i.ibb.co/JBFPXvn/drainer.png)
+![preview](https://i.ibb.co/k8z7yL7/Ethereum-NFT-Drainer.png)
 ---
 [Drainer - FULL VERSION](https://t.me/monkeydrainer_ethdrainer)
 ---
